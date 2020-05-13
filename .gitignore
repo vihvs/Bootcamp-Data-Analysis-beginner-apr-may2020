@@ -1,0 +1,13 @@
+# Mac/OSX
+.DS_Store
+
+# IDEs
+.vscode
+
+# Jupyter notebook
+.ipynb_checkpoints
+
+
+lessons/.ipynb_checkpoints/
+
+homework/.ipynb_checkpoints/
